@@ -2,6 +2,13 @@
 
 💻 BCA Student | Future CISO  
 🔥 Learning Python & Cybersecurity  
+## 🚀 Projects
+- Python Calculator  
+- Hello World Python  
+- More coming soon...
+
+![Python](https://img.shields.io/badge/Python-Hacker-green)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learner-red)
 
 ## My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarsh8572&show_icons=true)  
