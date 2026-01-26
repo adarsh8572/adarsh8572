@@ -20,3 +20,5 @@
 ## Skills  
 ![Python](https://img.shields.io/badge/Python-Developer-blue)  
 ![GitHub](https://img.shields.io/badge/GitHub-learner-black)
+## 🐍 GitHub Snake
+![Snake animation](https://github.com/adarsh8572/adarsh8572/blob/output/github-contribution-grid-snake.svg)
