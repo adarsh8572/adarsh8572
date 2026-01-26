@@ -8,4 +8,4 @@
 
 ## Skills  
 ![Python](https://img.shields.io/badge/Python-Developer-blue)  
-![GitHub](https://img.shields.io/badge/GitHub-Learner-black)
+![GitHub](https://img.shields.io/badge/GitHub-learner-black)
