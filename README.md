@@ -1,7 +1,12 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Adarsh%20Tiwari%20-%20Future%20CISO&fontSize=35)
+
 # Hi 👋 I'm Adarsh 🤗
 
+text=Adarsh%20Tiwari
+text=Future%20CISO
 💻 BCA Student | Future CISO  
 🔥 Learning Python & Cybersecurity  
+
 ## 🚀 Projects
 - Python Calculator  
 - Hello World Python  
