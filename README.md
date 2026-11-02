@@ -9,21 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=SYSTEM+INITIALIZED...;ADARSH+TIWARI+-+RED+TEAMER;ADVERSARY+EMULATION+PRACTITIONER;ACCESS+GRANTED" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <sub>⚠️ AUTHORIZED ACCESS ONLY — OFFENSIVE SECURITY LABORATORY ⚠️</sub>
-</div>
-
-<br />
-
-```bash
- __________________________________________________________________
-/\                                                                \
-\_|  [+] TARGET IDENTITY : Adarsh Tiwari                          |
-  |  [+] ROLE            : BCA Student & Aspiring Red Teamer      |
-  |  [+] SPECIALIZATION  : Network Exploitation & Python Payload  |
-  |  [+] OPERATING SYSTEM: Kali Linux / Custom Homelab            |
-  |_______________________________________________________________|
-  \_/_____________________________________________________________/
 
 ### 🎯 About Me
 > 🛡️ BCA Student & aspiring Red Teamer.
