@@ -35,12 +35,19 @@
 * **[Active Directory Lab Notes](https://github.com/adarsh8572)** - Documentation of lateral movement techniques and privilege escalation paths in a homelab.
 
 ### ⚡ Terminal Access
-```bash
-┌──(adarsh㉿kali)-[~/redteam/arsenal]
-└─$ whoami
-> Adversary Emulation & Offensive Security Practitioner 💀
+┌──(root💀kali)-[~/redteam/payloads]
+└─$ cat stealth_operations.py
 
-┌──(adarsh㉿kali)-[~/redteam/arsenal]
-└─$ cat target_objective.txt
-> Bypass controls, exploit vulnerabilities
+class RedTeamer:
+    def __init__(self):
+        self.handle = "Ashu"
+        self.focus = ["Network Recon", "Payload Dev", "AD Exploitation"]
+        self.status = "Bypassing Security Controls..."
+        
+    def execute_mission(self):
+        print("[*] Enumerating targets...")
+        print("[*] Crafting custom exploit...")
+        print("[+] Access Granted. Shell Acquired! 🔥")
+
+RedTeamer().execute_mission()
 
