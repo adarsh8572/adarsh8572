@@ -36,3 +36,12 @@
 
 --------------------------------------
 
+### 🛠️ Offensive Arsenal & Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Recon & Scanning** | ![Nmap](https://img.shields.io/badge/NMAP-000000?style=flat-square&logo=nmap&logoColor=00FF00) ![Wireshark](https://img.shields.io/badge/WIRESHARK-000000?style=flat-square&logo=wireshark&logoColor=00BFFF) ![Gobuster](https://img.shields.io/badge/GOBUSTER-000000?style=flat-square&logo=terminal&logoColor=FF0000) |
+| **Exploitation** | ![Metasploit](https://img.shields.io/badge/METASPLOIT-000000?style=flat-square&logo=metasploit&logoColor=0080FF) ![Burp Suite](https://img.shields.io/badge/BURP_SUITE-000000?style=flat-square&logo=burpsuite&logoColor=FF6600) |
+| **Scripting** | ![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=FFD43B) ![Bash](https://img.shields.io/badge/BASH-000000?style=flat-square&logo=gnu-bash&logoColor=4EAA25) ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00599C) |
+| **OS & Lab** | ![Kali Linux](https://img.shields.io/badge/KALI_LINUX-000000?style=flat-square&logo=kalilinux&logoColor=557C93) ![Windows Server](https://img.shields.io/badge/WINDOWS_SERVER-000000?style=flat-square&logo=windows&logoColor=0078D6) |
+
