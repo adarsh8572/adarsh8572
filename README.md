@@ -9,39 +9,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=SYSTEM+INITIALIZED...;RED+TEAMER;ADVERSARY+EMULATION+PRACTITIONER;ACCESS+GRANTED" alt="Typing SVG" />
 </h1>
 
+# 💫 About Me:
+ 🛡️ BCA Student & aspiring Red Teamer.<br>> Network with breaking things to understand how they work. <br>> 🔥 Focused on Adversary Emulation Network Pentesting, and custom payload development using Python & C++.<br>> ⚡ "If you give me a system, I'll find a way in.<br>> 🔥 Obsessedsedwith breaking systems to understand how they secure them.
 
-### 🎯 About Me
-> 🛡️ BCA Student & aspiring Red Teamer.
-> Network with breaking things to understand how they work. 
-> 🔥 Focused on Adversary Emulation Network Pentesting, and custom payload development using Python & C++.
-> ⚡ "If you give me a system, I'll find a way in.
-> 🔥 Obsessedsedwith breaking systems to understand how they secure them.
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshtiwari9738@gmail.com) 
+
+# 💻 Tech Stack:
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=adarsh8572&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=adarsh8572&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=adarsh8572&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=adarsh8572&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Offensive Arsenal & Skills
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Recon & Scanning** | Nmap, Gobuster, Nikto, Wireshark |
-| **Exploitation** | Metasploit, Burp Suite, SearchSploit |
-| **Scripting & Automation** | Python 🐍, Bash, PowerShell |
-| **Operating Systems** | Kali Linux, Parrot OS, Windows Server |
-
----
-
-### 🚀 Featured Red Team / Security Projects
-* **[Custom Port Scanner (Python)](https://github.com/adarsh8572)** - A multi-threaded TCP port scanner built from scratch for fast reconnaissance.
-* **[Basic Keylogger / Automation Script](https://github.com/adarsh8572)** - Educational script to understand endpoint monitoring and data exfiltration vectors.
-* **[Active Directory Lab Notes](https://github.com/adarsh8572)** - Documentation of lateral movement techniques and privilege escalation paths in a homelab.
-
---------------------------------------
-
-### 🛠️ Offensive Arsenal & Skills
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Recon & Scanning** | ![Nmap](https://img.shields.io/badge/NMAP-000000?style=flat-square&logo=nmap&logoColor=00FF00) ![Wireshark](https://img.shields.io/badge/WIRESHARK-000000?style=flat-square&logo=wireshark&logoColor=00BFFF) ![Gobuster](https://img.shields.io/badge/GOBUSTER-000000?style=flat-square&logo=terminal&logoColor=FF0000) |
-| **Exploitation** | ![Metasploit](https://img.shields.io/badge/METASPLOIT-000000?style=flat-square&logo=metasploit&logoColor=0080FF) ![Burp Suite](https://img.shields.io/badge/BURP_SUITE-000000?style=flat-square&logo=burpsuite&logoColor=FF6600) |
-| **Scripting** | ![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=FFD43B) ![Bash](https://img.shields.io/badge/BASH-000000?style=flat-square&logo=gnu-bash&logoColor=4EAA25) ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00599C) |
-| **OS & Lab** | ![Kali Linux](https://img.shields.io/badge/KALI_LINUX-000000?style=flat-square&logo=kalilinux&logoColor=557C93) ![Windows Server](https://img.shields.io/badge/WINDOWS_SERVER-000000?style=flat-square&logo=windows&logoColor=0078D6) |
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
