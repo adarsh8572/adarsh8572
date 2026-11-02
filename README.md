@@ -30,7 +30,7 @@
 * **[Basic Keylogger / Automation Script](https://github.com/adarsh8572)** - Educational script to understand endpoint monitoring and data exfiltration vectors.
 * **[Active Directory Lab Notes](https://github.com/adarsh8572)** - Documentation of lateral movement techniques and privilege escalation paths in a homelab.
 
----### ⚡ Terminal Access
+### ⚡ Terminal Access
 ```bash
 ┌──(adarsh㉿kali)-[~/redteam/arsenal]
 └─$ whoami
