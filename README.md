@@ -34,20 +34,5 @@
 * **[Basic Keylogger / Automation Script](https://github.com/adarsh8572)** - Educational script to understand endpoint monitoring and data exfiltration vectors.
 * **[Active Directory Lab Notes](https://github.com/adarsh8572)** - Documentation of lateral movement techniques and privilege escalation paths in a homelab.
 
-### ⚡ Terminal Access
-┌──(root💀kali)-[~/redteam/payloads]
-└─$ cat stealth_operations.py
-
-class RedTeamer:
-    def __init__(self):
-        self.handle = "Ashu"
-        self.focus = ["Network Recon", "Payload Dev", "AD Exploitation"]
-        self.status = "Bypassing Security Controls..."
-        
-    def execute_mission(self):
-        print("[*] Enumerating targets...")
-        print("[*] Crafting custom exploit...")
-        print("[+] Access Granted. Shell Acquired! 🔥")
-
-RedTeamer().execute_mission()
+()
 
