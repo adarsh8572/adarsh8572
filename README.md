@@ -10,7 +10,8 @@
 > 🛡️ BCA Student & aspiring Red Teamer.
 > Network with breaking things to understand how they work. 
 > 🔥 Focused on Adversary Emulation Network Pentesting, and custom payload development using Python & C++.
-> ⚡ "If you give me a system, I'll find a way in."
+> ⚡ "If you give me a system, I'll find a way in.
+> 🔥 Obsessedsedwith breaking systems to understand how they secure them.
 
 ---
 
@@ -29,5 +30,13 @@
 * **[Basic Keylogger / Automation Script](https://github.com/adarsh8572)** - Educational script to understand endpoint monitoring and data exfiltration vectors.
 * **[Active Directory Lab Notes](https://github.com/adarsh8572)** - Documentation of lateral movement techniques and privilege escalation paths in a homelab.
 
----
+---### ⚡ Terminal Access
+```bash
+┌──(adarsh㉿kali)-[~/redteam/arsenal]
+└─$ whoami
+> Adversary Emulation & Offensive Security Practitioner 💀
+
+┌──(adarsh㉿kali)-[~/redteam/arsenal]
+└─$ cat target_objective.txt
+> Bypass controls, exploit vulnerabilities
 
