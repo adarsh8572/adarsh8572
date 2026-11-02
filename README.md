@@ -6,7 +6,7 @@
 
 ---
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=SYSTEM+INITIALIZED...;ADARSH+TIWARI+-+RED+TEAMER;ADVERSARY+EMULATION+PRACTITIONER;ACCESS+GRANTED" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=SYSTEM+INITIALIZED...;RED+TEAMER;ADVERSARY+EMULATION+PRACTITIONER;ACCESS+GRANTED" alt="Typing SVG" />
 </h1>
 
 
