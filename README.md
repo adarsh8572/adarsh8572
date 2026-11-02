@@ -41,12 +41,3 @@
 
 ---
 
-### 🐍 Activity Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adarsh8572/adarsh8572/output/github-snake-dark.svg" />
-</p>
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh8572&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh8572&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
